@@ -1,1 +1,1 @@
-learning git fundamentals
+learning GitHub fundamentals
